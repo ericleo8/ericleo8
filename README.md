@@ -2,8 +2,7 @@
 
 <!--
 **ericleo8/ericleo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Timedoor Academy
 - 🌱 I’m currently learning Data Science
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ericleonardo8399@gmail.com
 - 😄 Pronouns: Me
 - ⚡ Fun fact: Extrovert but sometimes go out with my friends:)
--->
+
