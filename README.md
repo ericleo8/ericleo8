@@ -10,5 +10,5 @@
 - 💬 Ask me about Data Science and Web Development
 - 📫 How to reach me: ericleonardo8399@gmail.com
 - 😄 Pronouns: Me
-- ⚡ Fun fact: Extrovert but sometimes go out with my friends:)
+- ⚡ Fun fact: Extrovert but actually Ambivert:)
 
